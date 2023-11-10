@@ -1,0 +1,29 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "Namaste React by Rahul Sinha",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Sinha93/namaste-react.git"
+  },
+  "author": "Rahul Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Sinha93/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Rahul-Sinha93/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+    },
+  "browserslist": [
+    "last 2 verions"
+  ]
+}
